@@ -100,6 +100,6 @@ var arr6 = [2, 4, 10, 7, 5, 8, 6];
 // 最小值
 console.log(Math.min(...arr6)); // 2
 // 最大值
-console.log(Math.max(...arr6)); // 10
+console.log(Math.max(...arr6)); // 10 
 
 
